@@ -1,5 +1,6 @@
+![git badge](https://github.com/carefree-bob/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 # learn-cicd-starter (Notely)
-Another line to get action to trigger.
+
 This repo contains the starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
 
 ## Local Development
